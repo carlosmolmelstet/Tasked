@@ -1,0 +1,23 @@
+﻿@page "/Works"
+
+@inject IWorkService WorkService
+
+@foreach (var item in works.OrderBy(e => e.Effort))
+{
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h5 class="card-title">@item.Name</h5>
+        <p class="card-text">@item.Id</p>
+        <a href="#" class="card-link">@item.Effort</a>
+    </div>
+</div>}
+
+
+@code {
+    List<Work> works = new List<Work>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        works = await WorkService.GetWorks();
+    }
+}

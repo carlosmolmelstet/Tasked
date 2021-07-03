@@ -1,0 +1,12 @@
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\bin\Debug\net5.0\Tasked.Shared.deps.json
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\bin\Debug\net5.0\Tasked.Shared.dll
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\bin\Debug\net5.0\ref\Tasked.Shared.dll
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\bin\Debug\net5.0\Tasked.Shared.pdb
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\obj\Debug\net5.0\Tasked.Shared.csproj.AssemblyReference.cache
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\obj\Debug\net5.0\Tasked.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\obj\Debug\net5.0\Tasked.Shared.AssemblyInfoInputs.cache
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\obj\Debug\net5.0\Tasked.Shared.AssemblyInfo.cs
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\obj\Debug\net5.0\Tasked.Shared.csproj.CoreCompileInputs.cache
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\obj\Debug\net5.0\Tasked.Shared.dll
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\obj\Debug\net5.0\ref\Tasked.Shared.dll
+D:\Users\molme\source\repos\Tasked\Tasked\Shared\obj\Debug\net5.0\Tasked.Shared.pdb

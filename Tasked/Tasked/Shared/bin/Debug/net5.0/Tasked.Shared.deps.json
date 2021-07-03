@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tasked.Shared/1.0.0": {
+        "runtime": {
+          "Tasked.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tasked.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
